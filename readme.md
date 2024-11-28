@@ -1,14 +1,14 @@
 # House Price Prediction with Machine Learning and Data Visualization
 
 ## Contributors
-- Muhammad  
-- Hamza  
-- Sabeeh  
+- Muhammad Abbas 23k-0068
+- Hamza Sheikh 23k-0060
+- Sabeeh 23k-0002
 
 ---
 
 ## Objective
-Develop a tool that predicts house prices based on various features using machine learning and provides insightful data visualizations to understand housing data trends.
+Develop a Machine learning tool that predicts house prices based on various datasets and ML features like linear regression, feature engineering etc and provides insightful data visualizations to understand housing data trends.
 
 ---
 
@@ -30,7 +30,7 @@ Develop a tool that predicts house prices based on various features using machin
 ### 1. Data Loading and Preprocessing
 - Loaded the housing dataset using Pandas.
 - Encoded categorical variables (*yes/no* to *1/0*) and applied scaling on numerical columns.
-- Implemented feature engineering, including interactions between numerical features (commented for optimization).
+- Implemented feature engineering, including interactions between numerical features (commented for optimization as accuracy levels were decreasing due to it).
 
 ### 2. Statistical Analysis
 - Derived basic statistical insights using:
